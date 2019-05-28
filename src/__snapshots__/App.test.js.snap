@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> equals to the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`<App /> equals to the snapshot as Json 1`] = `
+<strong>
+  Hello World!
+</strong>
+`;
